@@ -13,7 +13,7 @@ This notebook demonstrates how to forecast the volatility of HDFCBANK stock usin
     *   Visualize the log returns to observe volatility clustering.
 
 3.  **GARCH Model Fitting and Forecasting (Initial)**:
-    *   Fit a GARCH(7,7) model to the log returns.
+    *   Fit a GARCH(p,q) model to the log returns.
     *   Generate a 10-day ahead volatility forecast.
     *   Visualize the forecasted volatility.
 

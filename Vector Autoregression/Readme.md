@@ -1,10 +1,7 @@
-# 📘 Vector Autoregression (VAR) Model
-## 🔹 Introduction
+# Vector Autoregression (VAR) Model
 
-Vector Autoregression (VAR): 
-is a statistical model used to capture the linear relationships among multiple time series variables. Unlike univariate autoregressive models, VAR treats all variables as endogenous, meaning each variable is modeled as a function of its own past values and the past values of all other variables in the system.
----
-
+## Introduction
+Vector Autoregression (VAR): is a statistical model used to capture the linear relationships among multiple time series variables. Unlike univariate autoregressive models, VAR treats all variables as endogenous, meaning each variable is modeled as a function of its own past values and the past values of all other variables in the system.
 ## Key features
 - Multivariate: Handles multiple time series simultaneously.
 - Lag Structure: Each variable depends on lagged values of itself and others.

@@ -9,19 +9,11 @@
 - Applications: Widely used in macroeconomics, finance, and forecasting.
 
 ## Mathematical form
-$$ \mathbf{y}_t =
-\begin{bmatrix}
-y_{1t} \\
-y_{2t} \\
-\vdots \\
-y_{kt}
-\end{bmatrix} $$
 
-A **VAR(p)** model of order \(p\) is defined as:
+A **VAR(p)** model of order $p$ is defined as:
 
-$$
 \mathbf{y}_t = \mathbf{c} + A_1 \mathbf{y}_{t-1} + A_2 \mathbf{y}_{t-2} + \dots + A_p \mathbf{y}_{t-p} + \mathbf{u}_t
-$$
+
 
 where:
 

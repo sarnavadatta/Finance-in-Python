@@ -8,7 +8,7 @@ Think of it as a “smart averaging machine” that constantly updates as new da
 
 ## Mathematical Formulation: Setup
 
-The Kalman Filter estimates the **hidden state** \(x_t\) of a system given **noisy observations** \(z_t\).  
+The Kalman Filter estimates the **hidden state** $x_t$ of a system given **noisy observations** $z_t$.  
 
 We assume a **linear Gaussian state-space model**.
 
